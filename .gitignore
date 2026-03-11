@@ -1,0 +1,9 @@
+﻿*.safetensors
+*.bin
+*.pt
+*.pth
+checkpoint-*/
+results/checkpoint-*/
+__pycache__/
+*.pyc
+.venv/
