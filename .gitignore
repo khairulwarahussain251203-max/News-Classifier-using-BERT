@@ -1,4 +1,5 @@
-﻿*.safetensors
+﻿# Model files (large)
+*.safetensors
 *.bin
 *.pt
 *.pth
@@ -7,3 +8,5 @@ results/checkpoint-*/
 __pycache__/
 *.pyc
 .venv/
+.vscode/
+.DS_Store
